@@ -38,6 +38,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 ## Development Projects
 - [kernel](https://github.com/googlestadia/kernel) - The Stadia OS kernel.
+- [StadiaPlus](https://github.com/Mafrans/StadiaPlus) - Extends Stadia with additional features, such as custom filters and in game network monitoring.
 
 ## Resources & Others
 #### Official
